@@ -7,3 +7,4 @@ else:
     def get_sq(sq_side):
         return sq_side * sq_side;
 
+ 
