@@ -5,3 +5,4 @@ def is_triangle(a, b, c):
 a = input();
 b = input();
 c = input();
+ 
